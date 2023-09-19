@@ -7,6 +7,11 @@
 ---
 ![NKUST](NKUST.png "NKUST")
 ---
+Emphasis, aka *italics,* with *asterisks* or *underscores*.  
+Strong emphasis, aka bold, with **asterisks** or **underscores**.  
+Combined emphasis with **asterisks and *underscores***.  
+Strikethrough uses two tildes. ~~Seratet this.~~  
+---
 - [ ] to do list
 - [x] one thing
 - [ ] second thing
