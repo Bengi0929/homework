@@ -7,7 +7,10 @@
 ---
 ![NKUST](NKUST.png "NKUST")
 ---
-- [x] to do list
+- [ ] to do list
+- [x] one thing
+- [ ] second thing
+- [ ] third thing
 ```python
 s="python highlighted syntex"
 print(s)
