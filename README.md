@@ -25,6 +25,17 @@ var s="Javascriot highlights";
 alert(s)
 ```
 ---
+1. First ordered list item
+2. Another item <br>
+..*  Unordered sub-list.
+4. Actual numbers don't matter, just that it's a number</br>
+..1. Ordered sub-list</br>
+...2. 2nd
+5. And another item.</br>
+...* note 1</br>
+...* note 2</br>
+***  note 3
+---
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 ---
 Colons can be used to align columns.
