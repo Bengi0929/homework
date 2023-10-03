@@ -15,6 +15,6 @@ gantt
 
 ## PERT/CPH圖
 
-![NKUST](NKUST.png "NKUST")
+![pert_diagram](pert_diagram.png "pert_diagram")
 
 ## 關鍵路徑
