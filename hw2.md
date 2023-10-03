@@ -14,5 +14,6 @@ gantt
 ```
 
 ## PERT/CPH圖
+![pert_diagram](pert_diagram的副本.png "pert_diagram")
 
 ## 關鍵路徑
