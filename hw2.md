@@ -22,7 +22,7 @@ gantt
 
 ## PERT/CPH圖
 
-![pert_diagram](pert_diagram.png "pert_diagram")
+![NKUST](pert_diagram.png "NKUST")
 
 ## 關鍵路徑
 1->2->3->4->5
