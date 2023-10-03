@@ -18,3 +18,5 @@ gantt
 ![pert_diagram](pert_diagram.png "pert_diagram")
 
 ## 關鍵路徑
+1->2->3->4->5
+
