@@ -22,8 +22,8 @@ gantt
 
 ## PERT/CPH圖
 
-![PERTJPG](diagram.png)
+![PERTJPG](圖一.png)
 
 ## 關鍵路徑
-1->2->3->4->5
+1 -> 2 -> 4-> 6 -> 9 -> 11
 
